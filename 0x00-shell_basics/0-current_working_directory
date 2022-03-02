@@ -1,5 +1,9 @@
 #!/bin/bash
 
-/Desktop/alx-system_engineering-devops$ pwd
+./0-current_working_directory
 
-/mukhtar/Desktop/alx-system_engineering-devops/
+/alx-system_engineering-devops/0x00-shell_basics
+
+# /Desktop/alx-system_engineering-devops$ pwd
+
+# /mukhtar/Desktop/alx-system_engineering-devops/
