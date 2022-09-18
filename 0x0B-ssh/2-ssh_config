@@ -1,9 +1,5 @@
-#!/usr/bin/env bash
+# ssh config file
 
-# Client configuration file
-
-# file with user config
-
-Host 34.73.24.78
-IdentityFile ~/.ssh/holberton
+Host \*
 PasswordAuthentication no
+IdentifyFile ~/.ssh/school
