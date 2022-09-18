@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # Connecting to a server through a private key
-ssh -i ~/.ssh/holberton ubuntu@35.231.33.237
+ssh -i ~/.ssh/ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDAgLMwIw9gYAPgP6TmGy8kwkqErMlLr08SFiI3Hc/FmD799O31oHn4rFiTfy7X0hvD3Z2HXJDZOc3jirc6maOZZN7D5cMZuPTsufX/KjBjzBZ5WIdRqpgjVuCkLqCIXznHE0wQBdQNdQ+XDhhv3u25ny0GrSdvaIla26baN16FUHrvgTtRwGoxpChopoMwZSYbhQ0zVWLQa66AZdFTLq4K7+vqRsIGJu0JGbIxXPhRg3F49aWo34wlDEdsoOER/JM5Tleusdu5QBsugKI00Hm6saew0t9ShbG2CrkSZKlTuK3QoP0SuGbs/0rF014s8ax7iX0Qvv2MHU87HzKiALz9Yx7bnTBtEhBQVKNi0kDfDZrqwb++QyYwry7gaCkvvfH2K01BNNr00KIC8zn03CPnpjbFtZLPgFDilcX+7iaNwtPglvENtqmYL84Lg5xRX5JjF9Lwzy+jKbVTzw6NdwAJkplzLg1XB+/ZDm0suCKdZ+yWZoArOHFGDNWzB7hfOQM= mukhtar@mukhtar
